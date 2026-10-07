@@ -15,8 +15,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ['20569947'])
-API_HASH = environ['d643430b289378849c13f2bdccb2de55']
+API_ID = int(environ['27479878'])
+API_HASH = environ['05f8dc8265d4c5df6376dded1d71c0ff']
 BOT_TOKEN = environ['BOT_TOKEN']
 
 # Restart interval for auto-restart: use 'd' for days, 'h' for hours, 'm' for minutes
